@@ -5,7 +5,7 @@ I am a 5th semester student at **Malikussaleh University**, **Informatics Engine
 I'm currently following the **SIB Cycle-5 Dicoding** Program at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> As a **Full Stack Developer** 
 
 - 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I'm currently studying to be a Full Stack Dev Opps
+- 🌱 I'm currently studying to be a Full Stack DevOps
 - 📫 How to reach me : irvanayevo9@gmail.com
 - ⚡ Fun fact: Learning the hard stuff
 
