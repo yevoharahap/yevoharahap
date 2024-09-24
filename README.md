@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Irvana Yevo Harahap.
 
-I am a 5th semester student at **Malikussaleh University**, **Informatics Engineering** Study Program.
+I am a 7th semester student at **Malikussaleh University**, **Informatics Engineering** Study Program.
 
 I'm currently following the **SIB Cycle-5 Dicoding** Program at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> As a **Full Stack Developer** 
 
