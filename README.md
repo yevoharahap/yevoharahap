@@ -4,12 +4,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=2F80ED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Analyst;Graphic+Designer" />
 </p>
-
-
 I enjoy building web applications and data-driven systems.
 My focus is combining software development + data analysis + machine learning to solve real-world problems.
 
-**🧠 What I Do**
+## 🧠 What I Do**
 Develop web applications (frontend & backend), Build prediction & classification models, Analyze datasets and create dashboards, Design simple UI/UX and digital branding
 
 ## 🛠 Languages & Tools
@@ -17,8 +15,22 @@ Develop web applications (frontend & backend), Build prediction & classification
   <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,git,github,flask,photoshop,figma" />
 </p>
 
-💼 Experience
-Full Stack Engineer — Dicoding Indonesia (SIB Program), Developed end-to-end web applications, API integration, database, testing & deployment, Freelance Web Developer & Designer — Joki Hype, Website development, Branding & social media design
+## 💼 Experience
+Full Stack Engineer — Dicoding Indonesia (SIB Program)
+
+Developed end-to-end web applications
+
+API integration
+
+database
+
+testing & deployment
+
+Freelance Web Developer & Designer — Joki Hype
+
+Website development
+
+Branding & social media design
 
 ## 🌐 Connect with me
 <p align="left">
