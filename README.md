@@ -1,15 +1,33 @@
-### Hi! 👋 I'm Irvana Yevo Harahap.
+👋 Hi, I'm Irvana Yevo Harahap
 
-I am a 7th semester student at **Malikussaleh University**, **Informatics Engineering** Study Program.
+Informatics Engineering Graduate — Malikussaleh University
+Full Stack Developer • Machine Learning Enthusiast • Data Analyst
 
-I'm currently following the **SIB Cycle-5 Dicoding** Program at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> As a **Full Stack Developer** 
+I enjoy building web applications and data-driven systems.
+My focus is combining software development + data analysis + machine learning to solve real-world problems.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I'm currently studying to be a Full Stack DevOps
-- 📫 How to reach me : irvanayevo9@gmail.com
-- ⚡ Fun fact: Learning the hard stuff
+🧠 What I Do
 
-### Reach me on
-- <a href="https://instagram.com/yevoharahap">Instagram</a>
-- irvanayevo9@gmail.com
-- <a href="https://twitter/yevoharahap">Twitter</a>
+Develop web applications (frontend & backend)
+Build prediction & classification models
+Analyze datasets and create dashboards
+Design simple UI/UX and digital branding
+
+🛠 Tech Stack
+
+Languages:
+Python, PHP, JavaScript, HTML, CSS
+Database & Tools:
+MySQL, Git, REST API
+Data & AI:
+Machine Learning, Regression, Random Forest, Data Analysis
+Design:
+Affinity by Canva, Photoshop, UI Design
+
+💼 Experience
+Full Stack Engineer — Dicoding Indonesia (SIB Program)
+Developed end-to-end web applications
+API integration, database, testing & deployment
+Freelance Web Developer & Designer — Joki Hype
+Website development
+Branding & social media design
