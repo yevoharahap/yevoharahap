@@ -2,7 +2,7 @@
 
 **Bachelor Of Informatics Engineering — Malikussaleh University**
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=2F80ED&center=true&vCenter=true&width=700&lines=Irvana+Yevo+Harahap;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Analyst" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=2F80ED&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Analyst;Graphic+Designer" />
 </p>
 
 
