@@ -1,26 +1,25 @@
 👋 Hi, I'm Irvana Yevo Harahap
 
-Informatics Engineering Graduate — Malikussaleh University
+**Bachelor Of Informatics Engineering — Malikussaleh University**
 Full Stack Developer • Machine Learning Enthusiast • Data Analyst
 
 I enjoy building web applications and data-driven systems.
 My focus is combining software development + data analysis + machine learning to solve real-world problems.
 
-🧠 What I Do
+**🧠 What I Do**
+Develop web applications (frontend & backend), Build prediction & classification models, Analyze datasets and create dashboards, Design simple UI/UX and digital branding
 
-Develop web applications (frontend & backend)
-Build prediction & classification models
-Analyze datasets and create dashboards
-Design simple UI/UX and digital branding
-
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 Languages:
 Python, PHP, JavaScript, HTML, CSS
+
 Database & Tools:
 MySQL, Git, REST API
+
 Data & AI:
 Machine Learning, Regression, Random Forest, Data Analysis
+
 Design:
 Affinity by Canva, Photoshop, UI Design
 
