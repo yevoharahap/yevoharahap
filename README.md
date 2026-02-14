@@ -1,7 +1,10 @@
-👋 Hi, I'm Irvana Yevo Harahap
+## 👋 Hi, I'm Irvana Yevo Harahap
 
 **Bachelor Of Informatics Engineering — Malikussaleh University**
-Full Stack Developer • Machine Learning Enthusiast • Data Analyst
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=2F80ED&center=true&vCenter=true&width=700&lines=Irvana+Yevo+Harahap;Full+Stack+Developer;Machine+Learning+Enthusiast;Data+Analyst" />
+</p>
+
 
 I enjoy building web applications and data-driven systems.
 My focus is combining software development + data analysis + machine learning to solve real-world problems.
