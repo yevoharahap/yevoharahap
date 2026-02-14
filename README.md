@@ -11,17 +11,10 @@ Develop web applications (frontend & backend), Build prediction & classification
 
 **🛠 Tech Stack**
 
-Languages:
-Python, PHP, JavaScript, HTML, CSS
-
-Database & Tools:
-MySQL, Git, REST API
-
-Data & AI:
-Machine Learning, Regression, Random Forest, Data Analysis
-
-Design:
-Affinity by Canva, Photoshop, UI Design
+## 🛠 Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,git,github,flask,photoshop,figma" />
+</p>
 
 💼 Experience
 Full Stack Engineer — Dicoding Indonesia (SIB Program), Developed end-to-end web applications, API integration, database, testing & deployment, Freelance Web Developer & Designer — Joki Hype, Website development, Branding & social media design
