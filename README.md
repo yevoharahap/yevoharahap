@@ -12,7 +12,7 @@ Develop web applications (frontend & backend), Build prediction & classification
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,git,github,flask,photoshop,figma" />
+  <img src="https://skillicons.dev/icons?i=python,php,laravel,js,html,css,mysql,git,github,flask,photoshop,figma" />
 </p>
 
 ## 💼 Experience
