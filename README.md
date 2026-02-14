@@ -24,9 +24,4 @@ Design:
 Affinity by Canva, Photoshop, UI Design
 
 💼 Experience
-Full Stack Engineer — Dicoding Indonesia (SIB Program)
-Developed end-to-end web applications
-API integration, database, testing & deployment
-Freelance Web Developer & Designer — Joki Hype
-Website development
-Branding & social media design
+Full Stack Engineer — Dicoding Indonesia (SIB Program), Developed end-to-end web applications, API integration, database, testing & deployment, Freelance Web Developer & Designer — Joki Hype, Website development, Branding & social media design
