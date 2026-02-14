@@ -7,7 +7,7 @@
 I enjoy building web applications and data-driven systems.
 My focus is combining software development + data analysis + machine learning to solve real-world problems.
 
-## 🧠 What I Do**
+## 🧠 What I Do
 Develop web applications (frontend & backend), Build prediction & classification models, Analyze datasets and create dashboards, Design simple UI/UX and digital branding
 
 ## 🛠 Languages & Tools
@@ -16,34 +16,33 @@ Develop web applications (frontend & backend), Build prediction & classification
 </p>
 
 ## 💼 Experience
-Full Stack Engineer — Dicoding Indonesia (SIB Program)
 
-Developed end-to-end web applications
+### Full Stack Engineer — Dicoding Indonesia (SIB Program)
+- Built end-to-end web applications including responsive frontend, backend services, and database integration
+- Designed and implemented RESTful APIs for data communication between client and server
+- Applied Git version control, debugging, testing, and documentation in collaborative development
+- Deployed applications and optimized basic system performance
 
-API integration
-
-database
-
-testing & deployment
-
-Freelance Web Developer & Designer — Joki Hype
-
-Website development
-
-Branding & social media design
+### Freelance Web Developer & Graphic Designer — Joki Hype
+- Developed custom websites based on client requirements with responsive UI design
+- Created branding materials such as logos, social media content, and promotional visuals
+- Communicated with clients to gather requirements, revise designs, and deliver final digital products
 
 ## 🌐 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/irvanayevoharahap" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/irvanayevoharahap/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/yevoharahap" target="blank">
+<a href="https://www.instagram.com/yevoharahap/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="mailto:irvanayevo9@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 </p>
+
 
